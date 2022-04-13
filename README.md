@@ -2,9 +2,6 @@
 
 ## définitions   
 
-
-
-
 Laravel est un framework web open-source écrit en PHP1 respectant le principe modèle-vue-contrôleur et entièrement développé en programmation orientée objet. Laravel est distribué sous licence MIT, avec ses sources hébergées sur GitHub.
 
 - Artisan est l'interface de ligne de commande incluse avec Laravel. Artisan existe à la racine de votre application en tant que script artisan et fournit un certain nombre de commandes utiles qui peuvent vous aider lors de la création de votre application. 
